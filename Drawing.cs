@@ -13,7 +13,6 @@ namespace LevelUpRaylib
         Random posCircle = new Random();
         int xA, yA, r1, xB, yB, r2;
 
-        //float valDistance;
         public void Init()
         {
             xA = posCircle.Next(50, 950);
